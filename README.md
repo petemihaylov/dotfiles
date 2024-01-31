@@ -14,3 +14,9 @@ Configuration wizard creates ~/.p10k.zsh based on your preferences.
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 ```
+
+## [Zsh](https://github.com/ohmyzsh/ohmyzsh)
+The terminal shell that I am using is ZSH
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
